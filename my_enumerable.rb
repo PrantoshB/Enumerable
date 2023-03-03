@@ -15,8 +15,7 @@ module MyEnumerable
 
   def filter?(&block)
     result = []
-    each do |item|
-      result << item if block.call(item) == true
-    end
+    each { |item| result << item if block.call(item) }
+    result
   end
 end
