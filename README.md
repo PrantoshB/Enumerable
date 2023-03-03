@@ -70,6 +70,12 @@ A basic understanding of Ruby and Git
 - LinkedIn: [Prantosh Biswas](https://linkedin.com/in/prantosh)
 
 
+👤 **tanveerisonline **
+
+- GitHub: [@tanveerisonline ](https://github.com/tanveerisonline)
+- Twitter: [@Tanveer Ahmad](https://twitter.com/Tanveer98589023)
+- LinkedIn: [Tanveer Ahmad](https://www.linkedin.com/in/tanveerisonline/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
